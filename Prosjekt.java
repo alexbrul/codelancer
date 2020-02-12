@@ -7,6 +7,9 @@ abstract class Prosjekt{
 	Bruker tilbyder;
 	int status;
 	int rating;
+	int forventetTid;
+	int frist;
+	int storrelse;
 		
 
 	/* Hovedprosjekt. Leses inn fra database. To typer, hemmelig og aapent

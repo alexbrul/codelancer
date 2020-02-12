@@ -1,1 +1,34 @@
-Backend i java. Bare kladd
+Backend i java. Bare kladd. Prosjekt for å lære hvordan en nettside kan snakke med backend og database. 
+
+
+todo:
+	Finne ut hvordan passord og sånn burde lagres, og hvordan sjekke rettigheter opp mot database. 
+	Blir i hvert fall hashet med salt osv. Sikkert en bra løsning for dette på databasesystemet.
+	Må passe på at vanlige brukere ikke får tilgang til andres prosjekter.
+
+	Alt frontend.
+
+	Bedre struktur på alt.
+
+	Hvordan lese inn alt. Tenker at java main leser inn all lagret informasjon fra databasen, evt når det trengs.
+	Man trenger vel egentlig ikke å ha alt kjørende og loadet når den uansett må lese og sjekke alt fra databasen.
+	Trenger bare metodene for å sjekke og opprette, og sjekke tilgang. Kladder først, også kan det endres senere.
+
+
+
+Bruker:
+	- To typer brukere, tilbydere og vanlige brukere. 
+
+Prosjekter:
+	- Hemmelige og offentlige.
+	- Første mann til mølla prinsipp, lever raskt, men folk kan legge ut status at de jobber på et.
+	- Brukere kan velge å sammarbeide, men må bli enige om %. Kan si "Jeg vil gjøre dette, men trenger folk". 
+	- Problem. Folk kan få et prosjekt, så nekte å betale. Hvordan fikse? Depsitum for nye prosjektledere.
+	- Katogorier, apper, alle språk, størrelse, 
+	- Blir litt som å utlyse et prosjekt, bare at det er førstemann. 
+	- Kult for studenter eller folk som vil freelance litt fra sia
+
+
+
+
+	
